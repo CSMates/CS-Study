@@ -17,3 +17,7 @@
 ## 22.10.09
 - JVM - 프로그램 실행 과정 (1)
 - [Algorithmic Complexity adv 2](https://scientific-petunia-d2d.notion.site/Algorithmic-Complexity-adv-2-9e6cb76d0bd64d4fabca184e6545c77c)
+
+## 22.10.16
+- [JVM - 메모리 구조 및 Garbage Collector (2)](https://velog.io/@iamjm29/JVM-%EA%B5%AC%EC%A1%B0)
+- [Arrays](https://scientific-petunia-d2d.notion.site/Arrays-d59e8f83e2d9446889a02baeda31df74)
